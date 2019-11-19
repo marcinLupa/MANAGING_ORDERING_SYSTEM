@@ -1,0 +1,291 @@
+[
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 4,
+        "day": 25
+      },
+      "time": {
+        "hour": 13,
+        "minute": 49,
+        "second": 55,
+        "nano": 689168000
+      }
+    },
+    "message": "VALIDATION;VALUE IS NOT UPPERCASE OR SPACE: as"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 3,
+        "day": 29
+      },
+      "time": {
+        "hour": 10,
+        "minute": 46,
+        "second": 49,
+        "nano": 276282000
+      }
+    },
+    "message": "VALIDATION;VALUE IS NOT DIGIT: asdads"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 3,
+        "day": 1
+      },
+      "time": {
+        "hour": 15,
+        "minute": 42,
+        "second": 53,
+        "nano": 753538000
+      }
+    },
+    "message": "VALIDATION;VALUE IS NOT DIGIT: dhdgdsd"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 5,
+        "day": 1
+      },
+      "time": {
+        "hour": 12,
+        "minute": 47,
+        "second": 8,
+        "nano": 233366000
+      }
+    },
+    "message": "VALIDATION;WRONG FORMAT OF LOCAL DATE FROM USER fff"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 5,
+        "day": 5
+      },
+      "time": {
+        "hour": 17,
+        "minute": 17,
+        "second": 8,
+        "nano": 233366000
+      }
+    },
+    "message": "VALIDATION;WRONG FORMAT OF LOCAL DATE FROM USER fff"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 5,
+        "day": 1
+      },
+      "time": {
+        "hour": 13,
+        "minute": 11,
+        "second": 8,
+        "nano": 233366000
+      }
+    },
+    "message": "VALIDATION;WRONG FORMAT OF LOCAL DATE FROM USER fff"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 4,
+        "day": 26
+      },
+      "time": {
+        "hour": 15,
+        "minute": 47,
+        "second": 8,
+        "nano": 233366000
+      }
+    },
+    "message": "VALIDATION;WRONG FORMAT OF LOCAL DATE FROM USER fff"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 5,
+        "day": 4
+      },
+      "time": {
+        "hour": 11,
+        "minute": 47,
+        "second": 8,
+        "nano": 233366000
+      }
+    },
+    "message": "VALIDATION;WRONG FORMAT OF LOCAL DATE FROM USER fff"
+  },
+  {
+
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 4,
+        "day": 27
+      },
+      "time": {
+        "hour": 15,
+        "minute": 47,
+        "second": 8,
+        "nano": 233366000
+      }
+    },
+    "message": "JSON;JSON FORMAT PROBLEM"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 4,
+        "day": 21
+      },
+      "time": {
+        "hour": 15,
+        "minute": 47,
+        "second": 8,
+        "nano": 233366000
+      }
+    },
+    "message": "CUSTOMERS;WRONG CUSTOMER 12213"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 4,
+        "day": 6
+      },
+      "time": {
+        "hour": 11,
+        "minute": 22,
+        "second": 8,
+        "nano": 233366000
+      }
+    },
+    "message": "CATEGORIES;WRONG CATEGORY ffsdf"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 4,
+        "day": 6
+      },
+      "time": {
+        "hour": 1,
+        "minute": 22,
+        "second": 8,
+        "nano": 233366000
+      }
+    },
+    "message": "DB;CANNOT CONNECT DATE BASE"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 5,
+        "day": 1
+      },
+      "time": {
+        "hour": 9,
+        "minute": 22,
+        "second": 8,
+        "nano": 233366000
+      }
+    },
+    "message": "CATEGORIES;CATEGORY ADD EXCEPTION"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 4,
+        "day": 6
+      },
+      "time": {
+        "hour": 23,
+        "minute": 22,
+        "second": 8,
+        "nano": 233366000
+      }
+    },
+    "message": "CUSTOMER_ORDERS;CUSTOMER_ORDER ADD EXCEPTION"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 4,
+        "day": 6
+      },
+      "time": {
+        "hour": 11,
+        "minute": 22,
+        "second": 8,
+        "nano": 233366000
+      }
+    },
+    "message": "CUSTOMERS;ADD CUSTOMER EXCEPTION"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 5,
+        "day": 1
+      },
+      "time": {
+        "hour": 23,
+        "minute": 22,
+        "second": 8,
+        "nano": 233366000
+      }
+    },
+    "message": "CUSTOMER_ORDERS;CUSTOMER_ORDER ADD EXCEPTION"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 4,
+        "day": 8
+      },
+      "time": {
+        "hour": 23,
+        "minute": 22,
+        "second": 8,
+        "nano": 233366000
+      }
+    },
+    "message": "CUSTOMER_ORDERS;CUSTOMER_ORDER ADD EXCEPTION"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 3,
+        "day": 6
+      },
+      "time": {
+        "hour": 23,
+        "minute": 22,
+        "second": 8,
+        "nano": 233366000
+      }
+    },
+    "message": "CUSTOMER_ORDERS;CUSTOMER_ORDER ADD EXCEPTION"
+  }
+]

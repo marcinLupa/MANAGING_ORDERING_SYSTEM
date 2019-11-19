@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="exceptions" />
+        <module name="validation" />
+        <module name="service" />
+        <module name="model" />
+        <module name="json" />
+        <module name="repository" />
+        <module name="main" />
+        <module name="dto" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="--enable-preview" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="MANAGING_ORDERING_SYSTEM_MULTIMODULE" options="" />
+      <module name="dto" options="" />
+      <module name="exceptions" options="" />
+      <module name="json" options="" />
+      <module name="main" options="" />
+      <module name="model" options="" />
+      <module name="repository" options="" />
+      <module name="service" options="" />
+      <module name="validation" options="" />
+    </option>
+  </component>
+</project>

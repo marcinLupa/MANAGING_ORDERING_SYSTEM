@@ -1,0 +1,82 @@
+[
+  {
+    "age": 21,
+    "name": "RAFAL",
+    "surname": "WOLA",
+    "country": {
+      "name": "POLSKA"
+    }
+  },
+  {
+    "age": 33,
+    "name": "KRZYSZTOF",
+    "surname": "NYKIEL",
+    "country": {
+      "name": "POLSKA"
+    }
+  },
+  {
+    "age": 45,
+    "name": "JOHN",
+    "surname": "JONES",
+    "country": {
+      "name": "USA"
+    }
+  },
+  {
+    "age": 21,
+    "name": "PAUL",
+    "surname": "SOUL",
+    "country": {
+      "name": "ANGLIA"
+    }
+  },
+  {
+    "age": 69,
+    "name": "FRITZ",
+    "surname": "VON FINGERHOF",
+    "country": {
+      "name": "NIEMCY"
+    }
+  },
+  {
+    "age": 51,
+    "name": "EWA",
+    "surname": "WOLNA",
+    "country": {
+      "name": "POLSKA"
+    }
+  },
+  {
+    "age": 35,
+    "name": "PETER",
+    "surname": "NOVAK",
+    "country": {
+      "name": "CZECHY"
+    }
+  },
+  {
+    "age": 21,
+    "name": "EDWARDAS",
+    "surname": "SABONIS",
+    "country": {
+      "name": "LITWA"
+    }
+  },
+  {
+    "age": 21,
+    "name": "WITALIJ",
+    "surname": "MOLODENKO",
+    "country": {
+      "name": "UKRAINA"
+    }
+  },
+  {
+    "age": 19,
+    "name": "IZA",
+    "surname": "ARA",
+    "country": {
+      "name": "POLSKA"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "age": 18,
+    "name": "NAME",
+    "surname": "SURNAME",
+    "country": {
+      "name": "COUNTRY"
+    }
+  },
+  {
+    "age": 50,
+    "name": "NAME1",
+    "surname": "SURNAME1",
+    "country": {
+      "name": "COUNTRY1"
+    }
+  }]

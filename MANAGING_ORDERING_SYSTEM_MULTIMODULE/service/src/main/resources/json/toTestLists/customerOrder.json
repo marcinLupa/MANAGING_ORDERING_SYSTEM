@@ -1,0 +1,85 @@
+[
+  {
+    "date": {
+      "year": 2019,
+      "month": 1,
+      "day": 1
+    },
+    "discount": 0,
+    "quantity": 10,
+    "customer": {
+      "age": 10,
+      "name": "NAME",
+      "surname": "SURNAME",
+      "country": {
+        "name": "COUNTRY"
+      }
+    },
+    "payment": {
+      "payment": "CASH"
+    },
+    "product": {
+      "name": "PRODUCT",
+      "price": 100,
+      "category": {
+        "name": "A"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "SERVICE",
+        "HELP_DESK",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "PRODUCER",
+        "country": {
+          "name": "COUNTRY"
+        },
+        "trade": {
+          "name": "TRADE"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 6,
+      "day": 1
+    },
+    "discount": 0,
+    "quantity": 10,
+    "customer": {
+      "age": 10,
+      "name": "NAME1",
+      "surname": "SURNAME1",
+      "country": {
+        "name": "COUNTRY1"
+      }
+    },
+    "payment": {
+      "payment": "CASH"
+    },
+    "product": {
+      "name": "PRODUCT1",
+      "price": 200,
+      "category": {
+        "name": "B"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "SERVICE",
+        "HELP_DESK",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "PRODUCER1",
+        "country": {
+          "name": "COUNTRY1"
+        },
+        "trade": {
+          "name": "TRADE"
+        }
+      }
+    }
+  }]

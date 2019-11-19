@@ -1,0 +1,74 @@
+[
+  {
+    "name": "SAMSUNG",
+    "country": {
+      "name": "KOREA POLUDNIOWA"
+    },
+    "trade": {
+      "name": "ELEKTRONIKA"
+    }
+  },
+  {
+    "name": "DE LONGHI",
+    "country": {
+      "name": "WLOCHY"
+    },
+    "trade": {
+      "name": "SPRZET KUCHENNY"
+    }
+  },
+  {
+    "name": "OPL",
+    "country": {
+      "name": "POLSKA"
+    },
+    "trade": {
+      "name": "ELEKTRONIKA"
+    }
+  },
+  {
+    "name": "PRIMA",
+    "country": {
+      "name": "CZECHY"
+    },
+    "trade": {
+      "name": "ELEKTRONIKA"
+    }
+  },
+  {
+    "name": "WHRILPOOL",
+    "country": {
+      "name": "WLOCHY"
+    },
+    "trade": {
+      "name": "AGD"
+    }
+  },
+  {
+    "name": "PRONTO",
+    "country": {
+      "name": "POLSKA"
+    },
+    "trade": {
+      "name": "KSIAZKI"
+    }
+  },
+  {
+    "name": "LG",
+    "country": {
+      "name": "KOREA POLUDNIOWA"
+    },
+    "trade": {
+      "name": "SPRZET KUCHENNY"
+    }
+  },
+  {
+    "name": "PHILIPS",
+    "country": {
+      "name": "HOLANDIA"
+    },
+    "trade": {
+      "name": "ELEKTRONIKA"
+    }
+  }
+]

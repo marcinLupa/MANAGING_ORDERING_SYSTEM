@@ -1,0 +1,30 @@
+[
+  {
+    "product": {
+      "producer": {
+        "country": {
+          "name": "COUNTRY"
+        }
+      }
+    },
+    "shop": {
+      "country": {
+        "name": "COUNTRY1"
+      }
+    }
+  },
+  {
+    "product": {
+      "producer": {
+        "country": {
+          "name": "COUNTRY1"
+        }
+      }
+    },
+    "shop": {
+      "country": {
+        "name": "COUNTRY"
+      }
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "NEONET",
+    "country": {
+      "name": "POLSKA"
+    }
+  },
+  {
+    "name": "MEDIA MARKT",
+    "country": {
+      "name": "NIEMCY"
+    }
+  },
+  {
+    "name": "MEDIA EKSPERT",
+    "country": {
+      "name": "POLSKA"
+    }
+  },
+  {
+    "name": "RTV EURO AGD",
+    "country": {
+      "name": "POLSKA"
+    }
+  },
+  {
+    "name": "ELKTROOO",
+    "country": {
+      "name": "HISZPANIA"
+    }
+  }
+]

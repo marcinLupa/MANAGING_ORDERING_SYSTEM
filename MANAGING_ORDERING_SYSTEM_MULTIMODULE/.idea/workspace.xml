@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2ccc593-4444-4b5c-a2ad-ec6da84123ed" name="Default Changelist" comment="JPA project1" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - per01@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - per01@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - per01@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="per01: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="Moje" />
+      </map>
+    </option>
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PhS67iPI18ZfbrhAPYTHdDzXju" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last.edited.regexp" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1530815" />
+    <property name="project.structure.side.proportion" value="0.34772462" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pocisk\Desktop\MANAGING_ORDERING_SYSTEM_MULTIMODULE\connection\src\main\resources" />
+      <recent name="C:\Users\Pocisk\Desktop\MANAGING_ORDERING_SYSTEM_MULTIMODULE\main\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="service" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="connections" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\48783\IdeaProjects\DUZE PROGRAMY\MANAGING_ORDERING_SYSTEM_MULTIMODULE\service\src\main\resources" />
+      <recent name="C:\Users\48783\IdeaProjects\DUZE PROGRAMY\MANAGING_ORDERING_SYSTEM_MULTIMODULE\json\target\classes\abstractConverter" />
+      <recent name="C:\Users\48783\IdeaProjects\DUZE PROGRAMY\MANAGING_ORDERING_SYSTEM_MULTIMODULE\main\target\classes\main\otherJsonFiles" />
+      <recent name="C:\Users\48783\IdeaProjects\DUZE PROGRAMY\MANAGING_ORDERING_SYSTEM_MULTIMODULE\main\target\classes\main\jsonToTest" />
+      <recent name="C:\Users\Pocisk\Desktop\MANAGING_ORDERING_SYSTEM_MULTIMODULE\connection\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddingToDateBaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.AddingToDateBaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddingToDateBaseTest.test15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.AddingToDateBaseTest" />
+      <option name="METHOD_NAME" value="test15" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddingToDateBaseTest.test17" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.AddingToDateBaseTest" />
+      <option name="METHOD_NAME" value="test17" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddingToDateBaseTest.test24" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.AddingToDateBaseTest" />
+      <option name="METHOD_NAME" value="test24" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.AddingToDateBaseTest" />
+      <item itemvalue="JUnit.AddingToDateBaseTest.test15" />
+      <item itemvalue="JUnit.AddingToDateBaseTest.test17" />
+      <item itemvalue="JUnit.AddingToDateBaseTest.test24" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.AddingToDateBaseTest" />
+        <item itemvalue="JUnit.AddingToDateBaseTest.test24" />
+        <item itemvalue="JUnit.AddingToDateBaseTest.test17" />
+        <item itemvalue="JUnit.AddingToDateBaseTest.test15" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2ccc593-4444-4b5c-a2ad-ec6da84123ed" name="Default Changelist" comment="" />
+      <created>1558342157825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558342157825</updated>
+      <workItem from="1558342163223" duration="21949000" />
+      <workItem from="1558426709601" duration="1720000" />
+      <workItem from="1558463358524" duration="143000" />
+      <workItem from="1558463527342" duration="19459000" />
+      <workItem from="1558527953626" duration="8784000" />
+      <workItem from="1558584523901" duration="2173000" />
+      <workItem from="1559158704968" duration="87000" />
+      <workItem from="1562152452595" duration="2362000" />
+      <workItem from="1562229470923" duration="831000" />
+      <workItem from="1562299737064" duration="1861000" />
+      <workItem from="1562479722108" duration="1514000" />
+      <workItem from="1562565382061" duration="593000" />
+      <workItem from="1562646504049" duration="2455000" />
+      <workItem from="1562667281795" duration="46000" />
+      <workItem from="1563277769672" duration="12804000" />
+      <workItem from="1563376869520" duration="648000" />
+      <workItem from="1563384007353" duration="4119000" />
+      <workItem from="1563393293082" duration="23000" />
+      <workItem from="1563393328977" duration="648000" />
+      <workItem from="1563422728195" duration="8148000" />
+      <workItem from="1563507140626" duration="9217000" />
+      <workItem from="1564042247325" duration="5123000" />
+      <workItem from="1564268958291" duration="763000" />
+      <workItem from="1564292212246" duration="585000" />
+      <workItem from="1564296340794" duration="561000" />
+      <workItem from="1564375890763" duration="596000" />
+      <workItem from="1564459778225" duration="576000" />
+      <workItem from="1564545873826" duration="1254000" />
+      <workItem from="1564632388887" duration="1995000" />
+      <workItem from="1564772205080" duration="1200000" />
+      <workItem from="1564834331628" duration="594000" />
+      <workItem from="1565195106136" duration="1797000" />
+      <workItem from="1566242204876" duration="1934000" />
+      <workItem from="1566324663703" duration="1800000" />
+      <workItem from="1566330398764" duration="1023000" />
+      <workItem from="1566496981643" duration="1527000" />
+      <workItem from="1567620020249" duration="257000" />
+      <workItem from="1568787404322" duration="25239000" />
+      <workItem from="1568876075666" duration="399000" />
+      <workItem from="1568876581499" duration="15210000" />
+      <workItem from="1568962079618" duration="25497000" />
+      <workItem from="1569078566013" duration="628000" />
+      <workItem from="1569264531826" duration="1196000" />
+      <workItem from="1569300923272" duration="3718000" />
+      <workItem from="1569354150758" duration="1573000" />
+      <workItem from="1569386375891" duration="594000" />
+      <workItem from="1569431501813" duration="5314000" />
+      <workItem from="1569956286231" duration="687000" />
+      <workItem from="1569995147415" duration="37317000" />
+      <workItem from="1570860466155" duration="6856000" />
+      <workItem from="1570870406294" duration="17573000" />
+      <workItem from="1571076287755" duration="4863000" />
+      <workItem from="1571082397472" duration="2227000" />
+      <workItem from="1571084814562" duration="2403000" />
+      <workItem from="1571166281179" duration="6205000" />
+      <workItem from="1571243295495" duration="5894000" />
+      <workItem from="1571256766820" duration="922000" />
+      <workItem from="1571679305460" duration="720000" />
+      <workItem from="1571812747916" duration="2279000" />
+      <workItem from="1572000138486" duration="7193000" />
+      <workItem from="1572329645437" duration="596000" />
+      <workItem from="1572430898390" duration="1215000" />
+      <workItem from="1572679838924" duration="2064000" />
+      <workItem from="1573643874523" duration="56000" />
+      <workItem from="1573763064724" duration="596000" />
+      <workItem from="1573895097161" duration="599000" />
+      <workItem from="1574150632238" duration="43000" />
+    </task>
+    <task id="LOCAL-00001" summary="JPA project commit">
+      <created>1558353226338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558353226338</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="JPA project commit" />
+    <MESSAGE value="JPA project1" />
+    <option name="LAST_COMMIT_MESSAGE" value="JPA project1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MANAGING_ORDERING_SYSTEM_MULTIMODULE$AddingToDateBaseTest.ic" NAME="AddingToDateBaseTest Coverage Results" MODIFIED="1568796325674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

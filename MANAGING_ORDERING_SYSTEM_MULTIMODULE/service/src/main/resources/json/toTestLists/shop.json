@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SHOP",
+    "country": {
+      "name": "COUNTRY"
+    }
+  },
+  {
+    "name": "SHOP1",
+    "country": {
+      "name": "COUNTRY1"
+    }
+  }]

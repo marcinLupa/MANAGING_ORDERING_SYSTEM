@@ -1,0 +1,49 @@
+[
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 10,
+        "day": 1
+      },
+      "time": {
+        "hour": 10,
+        "minute": 10,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "message": "CUSTOMERS;CUSTOMER_ORDER ADD EXCEPTION"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 10,
+        "minute": 10,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "message": "CUSTOMERS;CUSTOMER_ORDER ADD EXCEPTION"
+  },
+  {
+    "date": {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 10,
+        "minute": 10,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "message": "CUSTOMER_ORDERS;CUSTOMER_ORDER ADD EXCEPTION"
+  }]

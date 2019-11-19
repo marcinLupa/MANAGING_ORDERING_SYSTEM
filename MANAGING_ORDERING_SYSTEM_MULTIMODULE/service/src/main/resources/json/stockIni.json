@@ -1,0 +1,295 @@
+[
+  {
+    "quantity": 10,
+    "product": {
+      "name": "TELEWIZOR",
+      "price": 1500,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [
+        "SERVICE",
+        "EXCHANGE",
+        "MONEY_BACK",
+        "HELP_DESK"
+      ],
+      "producer": {
+        "name": "SAMSUNG",
+        "country": {
+          "name": "KOREA POLUDNIOWA"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    },
+    "shop": {
+      "name": "NEONET",
+      "country": {
+        "name": "POLSKA"
+      }
+    }
+  },
+  {
+    "quantity": 20,
+    "product": {
+      "name": "EKSPRES DO KAWY",
+      "price": 2200,
+      "category": {
+        "name": "AGD"
+      },
+      "enumGuaranteeComponents": [
+        "SERVICE",
+        "EXCHANGE"
+      ],
+      "producer": {
+        "name": "DE LONGHI",
+        "country": {
+          "name": "WLOCHY"
+        },
+        "trade": {
+          "name": "SPRZET KUCHENNY"
+        }
+      }
+    },
+    "shop": {
+      "name": "MEDIA MARKT",
+      "country": {
+        "name": "NIEMCY"
+      }
+    }
+  },
+  {
+    "quantity": 100,
+    "product": {
+      "name": "PLYTA DVD",
+      "price": 1.99,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [],
+      "producer": {
+        "name": "OPL",
+        "country": {
+          "name": "POLSKA"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    },
+    "shop": {
+      "name": "MEDIA EKSPERT",
+      "country": {
+        "name": "POLSKA"
+      }
+    }
+  },
+  {
+    "quantity": 20,
+    "product": {
+      "name": "TELEFON STACJONARNY",
+      "price": 89.99,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [
+        "SERVICE",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "PRIMA",
+        "country": {
+          "name": "CZECHY"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    },
+    "shop": {
+      "name": "RTV EURO AGD",
+      "country": {
+        "name": "POLSKA"
+      }
+    }
+  },
+  {
+    "quantity": 20,
+    "product": {
+      "name": "SMARTFON",
+      "price": 1999,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "SERVICE",
+        "HELP_DESK",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "SAMSUNG",
+        "country": {
+          "name": "KOREA POLUDNIOWA"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    },
+    "shop": {
+      "name": "ELKTROOO",
+      "country": {
+        "name": "HISZPANIA"
+      }
+    }
+  },
+  {
+    "quantity": 4,
+    "product": {
+      "name": "ZMYWARKA",
+      "price": 1100,
+      "category": {
+        "name": "AGD"
+      },
+      "enumGuaranteeComponents": [
+        "SERVICE",
+        "HELP_DESK",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "WHRILPOOL",
+        "country": {
+          "name": "WLOCHY"
+        },
+        "trade": {
+          "name": "AGD"
+        }
+      }
+    },
+    "shop": {
+      "name": "NEONET",
+      "country": {
+        "name": "POLSKA"
+      }
+    }
+  },
+  {
+    "quantity": 50,
+    "product": {
+      "name": "KSIAZKA KUCHARSKA",
+      "price": 11.99,
+      "category": {
+        "name": "INNE"
+      },
+      "enumGuaranteeComponents": [],
+      "producer": {
+        "name": "PRONTO",
+        "country": {
+          "name": "POLSKA"
+        },
+        "trade": {
+          "name": "KSIAZKI"
+        }
+      }
+    },
+    "shop": {
+      "name": "RTV EURO AGD",
+      "country": {
+        "name": "POLSKA"
+      }
+    }
+  },
+  {
+    "quantity": 3,
+    "product": {
+      "name": "LODOWKA",
+      "price": 1599,
+      "category": {
+        "name": "AGD"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "SERVICE",
+        "HELP_DESK",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "LG",
+        "country": {
+          "name": "KOREA POLUDNIOWA"
+        },
+        "trade": {
+          "name": "SPRZET KUCHENNY"
+        }
+      }
+    },
+    "shop": {
+      "name": "MEDIA MARKT",
+      "country": {
+        "name": "NIEMCY"
+      }
+    }
+  },
+  {
+    "quantity": 5,
+    "product": {
+      "name": "TELEWIZOR",
+      "price": 4500,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "SERVICE",
+        "HELP_DESK",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "PHILIPS",
+        "country": {
+          "name": "HOLANDIA"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    },
+    "shop": {
+      "name": "NEONET",
+      "country": {
+        "name": "POLSKA"
+      }
+    }
+  },
+  {
+    "quantity": 5,
+    "product": {
+      "name": "EKSPRES DO KAWY",
+      "price": 2200,
+      "category": {
+        "name": "AGD"
+      },
+      "enumGuaranteeComponents": [
+        "SERVICE",
+        "EXCHANGE"
+      ],
+      "producer": {
+        "name": "DE LONGHI",
+        "country": {
+          "name": "WLOCHY"
+        },
+        "trade": {
+          "name": "SPRZET KUCHENNY"
+        }
+      }
+    },
+    "shop": {
+      "name": "MEDIA EKSPERT",
+      "country": {
+        "name": "POLSKA"
+      }
+    }
+  }
+]

@@ -1,0 +1,901 @@
+[
+  {
+    "date": {
+      "year": 2019,
+      "month": 6,
+      "day": 11
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 21,
+      "name": "RAFAL",
+      "surname": "WOLA",
+      "country": {
+        "name": "POLSKA"
+      }
+    },
+    "payment": {
+      "payment": "CASH"
+    },
+    "product": {
+      "name": "TELEWIZOR",
+      "price": 1500,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "SERVICE",
+        "HELP_DESK",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "SAMSUNG",
+        "country": {
+          "name": "KOREA POLUDNIOWA"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 5,
+      "day": 11
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 33,
+      "name": "KRZYSZTOF",
+      "surname": "NYKIEL",
+      "country": {
+        "name": "POLSKA"
+      }
+    },
+    "payment": {
+      "payment": "CARD"
+    },
+    "product": {
+      "name": "EKSPRES DO KAWY",
+      "price": 2200,
+      "category": {
+        "name": "AGD"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "SERVICE"
+      ],
+      "producer": {
+        "name": "DE LONGHI",
+        "country": {
+          "name": "WLOCHY"
+        },
+        "trade": {
+          "name": "SPRZET KUCHENNY"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 6,
+      "day": 30
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 45,
+      "name": "JOHN",
+      "surname": "JONES",
+      "country": {
+        "name": "USA"
+      }
+    },
+    "payment": {
+      "payment": "MONEY_TRANSFER"
+    },
+    "product": {
+      "name": "PLYTA DVD",
+      "price": 1.99,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [],
+      "producer": {
+        "name": "OPL",
+        "country": {
+          "name": "POLSKA"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 7,
+      "day": 15
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 21,
+      "name": "PAUL",
+      "surname": "SOUL",
+      "country": {
+        "name": "ANGLIA"
+      }
+    },
+    "payment": {
+      "payment": "CASH"
+    },
+    "product": {
+      "name": "TELEFON STACJONARNY",
+      "price": 89.99,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [
+        "SERVICE",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "PRIMA",
+        "country": {
+          "name": "CZECHY"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 7,
+      "day": 1
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 69,
+      "name": "FRITZ",
+      "surname": "VON FINGERHOF",
+      "country": {
+        "name": "NIEMCY"
+      }
+    },
+    "payment": {
+      "payment": "CARD"
+    },
+    "product": {
+      "name": "SMARTFON",
+      "price": 1999,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "SERVICE",
+        "HELP_DESK",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "SAMSUNG",
+        "country": {
+          "name": "KOREA POLUDNIOWA"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 6,
+      "day": 16
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 51,
+      "name": "EWA",
+      "surname": "WOLNA",
+      "country": {
+        "name": "POLSKA"
+      }
+    },
+    "payment": {
+      "payment": "CARD"
+    },
+    "product": {
+      "name": "ZMYWARKA",
+      "price": 1100,
+      "category": {
+        "name": "AGD"
+      },
+      "enumGuaranteeComponents": [
+        "SERVICE",
+        "HELP_DESK",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "WHRILPOOL",
+        "country": {
+          "name": "WLOCHY"
+        },
+        "trade": {
+          "name": "AGD"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 7,
+      "day": 16
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 35,
+      "name": "PETER",
+      "surname": "NOVAK",
+      "country": {
+        "name": "CZECHY"
+      }
+    },
+    "payment": {
+      "payment": "CARD"
+    },
+    "product": {
+      "name": "KSIAZKA KUCHARSKA",
+      "price": 11.99,
+      "category": {
+        "name": "INNE"
+      },
+      "enumGuaranteeComponents": [],
+      "producer": {
+        "name": "PRONTO",
+        "country": {
+          "name": "POLSKA"
+        },
+        "trade": {
+          "name": "KSIAZKI"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 5,
+      "day": 25
+    },
+    "discount": 5,
+    "quantity": 5,
+    "customer": {
+      "age": 21,
+      "name": "EDWARDAS",
+      "surname": "SABONIS",
+      "country": {
+        "name": "LITWA"
+      }
+    },
+    "payment": {
+      "payment": "CASH"
+    },
+    "product": {
+      "name": "LODOWKA",
+      "price": 1599,
+      "category": {
+        "name": "AGD"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "SERVICE",
+        "HELP_DESK",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "LG",
+        "country": {
+          "name": "KOREA POLUDNIOWA"
+        },
+        "trade": {
+          "name": "SPRZET KUCHENNY"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 5,
+      "day": 28
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 21,
+      "name": "WITALIJ",
+      "surname": "MOLODENKO",
+      "country": {
+        "name": "UKRAINA"
+      }
+    },
+    "payment": {
+      "payment": "CARD"
+    },
+    "product": {
+      "name": "TELEWIZOR",
+      "price": 4500,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "SERVICE",
+        "HELP_DESK",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "PHILIPS",
+        "country": {
+          "name": "HOLANDIA"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 5,
+      "day": 10
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 19,
+      "name": "IZA",
+      "surname": "ARA",
+      "country": {
+        "name": "POLSKA"
+      }
+    },
+    "payment": {
+      "payment": "CARD"
+    },
+    "product": {
+      "name": "TELEFON STACJONARNY",
+      "price": 89.99,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [
+        "SERVICE",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "PRIMA",
+        "country": {
+          "name": "CZECHY"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 6,
+      "day": 1
+    },
+    "discount": 5,
+    "quantity": 2,
+    "customer": {
+      "age": 19,
+      "name": "IZA",
+      "surname": "ARA",
+      "country": {
+        "name": "POLSKA"
+      }
+    },
+    "payment": {
+      "payment": "CARD"
+    },
+    "product": {
+      "name": "TELEWIZOR",
+      "price": 4500,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "SERVICE",
+        "HELP_DESK",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "PHILIPS",
+        "country": {
+          "name": "HOLANDIA"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 6,
+      "day": 16
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 51,
+      "name": "EWA",
+      "surname": "WOLNA",
+      "country": {
+        "name": "POLSKA"
+      }
+    },
+    "payment": {
+      "payment": "CASH"
+    },
+    "product": {
+      "name": "ZMYWARKA",
+      "price": 1100,
+      "category": {
+        "name": "AGD"
+      },
+      "enumGuaranteeComponents": [
+        "SERVICE",
+        "HELP_DESK",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "WHRILPOOL",
+        "country": {
+          "name": "WLOCHY"
+        },
+        "trade": {
+          "name": "AGD"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 6,
+      "day": 11
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 21,
+      "name": "RAFAL",
+      "surname": "WOLA",
+      "country": {
+        "name": "POLSKA"
+      }
+    },
+    "payment": {
+      "payment": "CASH"
+    },
+    "product": {
+      "name": "KINO DOMOWE",
+      "price": 2500,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "SERVICE",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "PHILIPS",
+        "country": {
+          "name": "HOLANDIA"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 6,
+      "day": 11
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 21,
+      "name": "RAFAL",
+      "surname": "WOLA",
+      "country": {
+        "name": "POLSKA"
+      }
+    },
+    "payment": {
+      "payment": "CASH"
+    },
+    "product": {
+      "name": "SLUCHAWKI",
+      "price": 100,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "PHILIPS",
+        "country": {
+          "name": "HOLANDIA"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 5,
+      "day": 11
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 33,
+      "name": "KRZYSZTOF",
+      "surname": "NYKIEL",
+      "country": {
+        "name": "POLSKA"
+      }
+    },
+    "payment": {
+      "payment": "CARD"
+    },
+    "product":  {
+      "name": "ZAMRAZARKA",
+      "price": 1200,
+      "category": {
+        "name": "AGD"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "SERVICE",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "LG",
+        "country": {
+          "name": "KOREA POLUDNIOWA"
+        },
+        "trade": {
+          "name": "SPRZET KUCHENNY"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 5,
+      "day": 11
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 33,
+      "name": "KRZYSZTOF",
+      "surname": "NYKIEL",
+      "country": {
+        "name": "POLSKA"
+      }
+    },
+    "payment": {
+      "payment": "CARD"
+    },
+    "product":  {
+      "name": "ZAMRAZARKA",
+      "price": 1200,
+      "category": {
+        "name": "AGD"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "SERVICE",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "LG",
+        "country": {
+          "name": "KOREA POLUDNIOWA"
+        },
+        "trade": {
+          "name": "SPRZET KUCHENNY"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 6,
+      "day": 30
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 45,
+      "name": "JOHN",
+      "surname": "JONES",
+      "country": {
+        "name": "USA"
+      }
+    },
+    "payment": {
+      "payment": "MONEY_TRANSFER"
+    },
+    "product": {
+      "name": "JAK CZYSCIC MONITORY",
+      "price": 35,
+      "category": {
+        "name": "INNE"
+      },
+      "enumGuaranteeComponents": [],
+      "producer": {
+        "name": "PRONTO",
+        "country": {
+          "name": "POLSKA"
+        },
+        "trade": {
+          "name": "KSIAZKI"
+        }
+      }
+    }
+  },
+
+  {
+    "date": {
+      "year": 2019,
+      "month": 7,
+      "day": 15
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 21,
+      "name": "PAUL",
+      "surname": "SOUL",
+      "country": {
+        "name": "ANGLIA"
+      }
+    },
+    "payment": {
+      "payment": "CASH"
+    },
+    "product": {
+      "name": "SLUCHAWKI",
+      "price": 120,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "SERVICE",
+        "HELP_DESK",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "SAMSUNG",
+        "country": {
+          "name": "KOREA POLUDNIOWA"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 7,
+      "day": 15
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 21,
+      "name": "PAUL",
+      "surname": "SOUL",
+      "country": {
+        "name": "ANGLIA"
+      }
+    },
+    "payment": {
+      "payment": "CASH"
+    },
+    "product":  {
+      "name": "MONITOR",
+      "price": 1100,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "SERVICE",
+        "HELP_DESK",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "SAMSUNG",
+        "country": {
+          "name": "KOREA POLUDNIOWA"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 7,
+      "day": 15
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 21,
+      "name": "PAUL",
+      "surname": "SOUL",
+      "country": {
+        "name": "ANGLIA"
+      }
+    },
+    "payment": {
+      "payment": "CASH"
+    },
+    "product":  {
+      "name": "LAPTOP",
+      "price": 2200,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [
+        "EXCHANGE",
+        "SERVICE",
+        "HELP_DESK",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "SAMSUNG",
+        "country": {
+          "name": "KOREA POLUDNIOWA"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 6,
+      "day": 11
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 21,
+      "name": "RAFAL",
+      "surname": "WOLA",
+      "country": {
+        "name": "POLSKA"
+      }
+    },
+    "payment": {
+      "payment": "CASH"
+    },
+    "product": {
+      "name": "PLYTA DVD",
+      "price": 1.99,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [],
+      "producer": {
+        "name": "OPL",
+        "country": {
+          "name": "POLSKA"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    }
+  },
+  {
+    "date": {
+      "year": 2019,
+      "month": 7,
+      "day": 16
+    },
+    "discount": 5,
+    "quantity": 1,
+    "customer": {
+      "age": 35,
+      "name": "PETER",
+      "surname": "NOVAK",
+      "country": {
+        "name": "CZECHY"
+      }
+    },
+    "payment": {
+      "payment": "CARD"
+    },
+    "product": {
+      "name": "TELEFON STACJONARNY",
+      "price": 89.99,
+      "category": {
+        "name": "RTV"
+      },
+      "enumGuaranteeComponents": [
+        "SERVICE",
+        "MONEY_BACK"
+      ],
+      "producer": {
+        "name": "PRIMA",
+        "country": {
+          "name": "CZECHY"
+        },
+        "trade": {
+          "name": "ELEKTRONIKA"
+        }
+      }
+    }
+  }
+
+
+
+
+
+
+
+
+
+]
